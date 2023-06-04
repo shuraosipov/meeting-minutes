@@ -1,0 +1,4 @@
+env.list
+*.vtt
+.chroma
+.venv
